@@ -48,6 +48,11 @@ node_modules/
 # Data
 data/
 
+# Environment
+.env
+.env.local
+.env.*.local
+
 # uploads
 backend/data/uploads/
 
